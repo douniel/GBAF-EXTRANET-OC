@@ -1,0 +1,100 @@
+
+h1 {
+    font-weight: 300;
+    margin-bottom: 2%;
+    text-align: center;
+  }
+  
+  h2 {
+    font-weight: 300;
+    margin-left: 6%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    text-align: left;
+  }
+  
+  .username {
+    width: 300px;
+    margin-left: 50px;
+  }
+  
+  .password1 {
+      width: 300px;
+  }
+
+  .password2 {
+    margin-right: 70px;
+  }
+  
+  .img-user {
+    height: 10%;
+    display: flex;
+    margin-left: 20%;
+    padding-right: 2%;
+  }
+  
+  .list-presentation {
+    text-align: left;
+    font-size: 1.2rem;
+    margin-left: 10%;
+  }
+  
+  .list-acteurs {
+    text-align: left;
+    font-size: 1.2rem;
+    margin-left: 10%;
+  }
+  
+  .img-clavier {
+    width: 80%;
+    margin: 5%;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .img-logo {
+    width: 90%;
+    display: flex;
+  }
+  
+  .content-user {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 20%;
+  }
+  
+  .content-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5%;
+  }
+  
+  
+  .comment {
+    text-align: left;
+    margin-left: 20%;
+    margin-top: 5%;
+    padding: 2%;
+    width: 40%;
+    border: solid rgb(214, 25, 25);
+    border-radius: 10px;
+  }
+  
+  .copyright {
+    font-size: 0.9rem;
+    font-weight: 100;
+    margin-left: 1%;
+    margin-right: 1%;
+    background-color: rgb(245, 0, 0);
+  }
+
+  .champs{
+    display:flex;
+  }
+
+  .formulaire{
+    display: flex;
+  }

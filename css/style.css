@@ -1,0 +1,160 @@
+body {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(0, 0, 0);
+  }
+  
+  h1 {
+    font-weight: 300;
+    margin: 10%;
+    text-align: center;
+  }
+  
+  h2 {
+    font-weight: 300;
+    margin: 10%;
+    text-align: left;
+  }
+  
+    
+  .username {
+    width: 200px;
+  
+  }
+  
+  .password {
+    width: 150px;
+  }
+  
+  
+  .title-page {
+    font-weight: 300;
+    margin: 10%;
+    text-align: left;
+    font-size: 2rem;
+  }
+
+
+  .img-user {
+    width: 10%;
+  }
+  
+  .list-presentation {
+    text-align: left;
+    font-size: 1.2rem;
+    margin-left: 15%;
+  }
+  
+  .list-presentation-contenu {
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .img-clavier {
+    width: 80%;
+  }
+  
+  .list-acteurs {
+    text-align: left;
+    font-size: 1.2rem;
+    margin-left: 15%;
+  }
+  
+  .logo-acteurs{
+    width: 280px;
+  }
+  
+  .logo-acteur1 {
+    width: 300px;
+  }
+  
+  
+  .style-acteurs {
+    margin: 1%;
+    font-size: 1.2rem;
+    font-weight: 100;
+    text-align: justify;
+    border: 1px solid #B4cde1ff;
+    padding: 7px;
+  }
+  
+  .lien-acteurs {
+    color: red;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .contenu-textuel {
+    font-weight: 300;
+    font-size: 1.5rem;
+    margin: 10%;
+    text-align: justify;
+  }
+  
+  .content-comments {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20%;
+    margin-right: 15%;
+    font-size: 1.3rem;
+  }
+  
+  .comment {
+    text-align: left;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120%;
+    border: 2px solid #B4cde1ff;
+    border-radius: 10px;
+  }
+  
+  .content-buttons {
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+  }
+  
+  
+  a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  
+  .lien-droite {
+    text-align: right;
+    margin-bottom: 5%;
+  }
+  
+  .spanCouleur {
+    color: red;
+    font-weight: 300;
+  }
+  
+  
+  .copyright {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 1%;
+    background-color: red;
+    
+  }
+  
+  .dblock {
+    display: block;
+  }
+  
+  .dnone {
+    display: none;
+  }
+
+  .connection {
+    background-color: red;
+  }
+
+  .acteurs .h2 {
+    font-weight: bold;
+    color :rgb(0, 0, 0)
+  }
